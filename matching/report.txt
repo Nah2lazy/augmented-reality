@@ -1,0 +1,4 @@
+When matching objects that have defining features the less errors occur, but matching images with repitition more errors occur.
+Changing the angle the object is viewed upon creates more errors.
+When matching objects with the same angle there may still be errors due to the repition of the image, this occurs with plants.
+Reducing the image resolution eliminates errors but also creates new ones as a result.
